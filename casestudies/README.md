@@ -1,0 +1,1 @@
+This is where the original C sources files for each case study are stored, linked and compiled into dynamic libraries.
