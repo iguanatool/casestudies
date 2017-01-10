@@ -1,1 +1,1 @@
-This is where the Java source files for each case study are stored.
+This is where the Java source files for the input specifications and stub of each case study are stored.
