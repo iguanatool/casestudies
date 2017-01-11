@@ -68,7 +68,6 @@ int days_between(int start_month, int start_day, int start_year,
   return days;
 }
 
-
 void perform_call(double* args, int num_args)
 {
 	// declarations
