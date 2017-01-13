@@ -1,4 +1,6 @@
-# IGUANA case studies for the Dependence and Testability Project with Dave Binkley
+# IGUANA case studies
+
+Case studies for use with IGUANA (currently only contains the Calendar example).
 
 To use with IGUANA you will need to invoke the `setup.sh` bash script in the root directory of this repo. This requires:
 
