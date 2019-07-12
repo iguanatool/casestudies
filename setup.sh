@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+
 if [ -z "$IGUANA_HOME" ]; then
     echo "Error: IGUANA_HOME environement variable not set"
     exit 1
